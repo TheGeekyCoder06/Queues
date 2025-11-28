@@ -1,1 +1,1 @@
-First non-repeating characters: abb
+1 10 11 100 101 
